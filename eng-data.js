@@ -1,25 +1,13 @@
-// Put all your English questions inside these brackets [ ]
-const ALL_ENG_MCQ = [
+const ENG_RAW = [
   {
     id: 5001,
-    q: "Choose the correct Synonym for: 'ABANDON'",
-    a: "Keep",
+    q: "Select the most appropriate synonym of the given word: 'ABANDON'",
+    a: "Adopt",
     b: "Forsake",
-    c: "Cherish",
-    d: "Hold",
+    c: "Keep",
+    d: "Retain",
     ans: "b",
     topic: "Synonyms",
-    fact: "Abandon means to leave or give up completely."
-  },
-  {
-    id: 5002,
-    q: "Spot the error: 'He don't like apples.'",
-    a: "He",
-    b: "don't",
-    c: "like",
-    d: "apples",
-    ans: "b",
-    topic: "Spot the Error",
-    fact: "With 'He/She/It', we use 'doesn't', not 'don't'."
+    fact: "Abandon means to leave completely; Forsake is its closest synonym."
   }
 ];
